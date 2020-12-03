@@ -32,7 +32,7 @@ Azure Data Explorer integrates with other major services to provide an end-to-en
 
 ![Data warehouse diagram](media/data-explorer-overview/data-warehouse.png)
 
-Azure Data Explorer supports several ingestion methods, including connectors to common services like Event Hub, programmatic ingestion using SDKs, such as .NET and Python, and direct access to the engine for exploration purposes. Azure Data Explorer integrates with analytics and modeling services for additional analysis and visualization of data.
+Azure Data Explorer supports several ingestion methods, including connectors to common services like Event Hubs, programmatic ingestion using SDKs, such as .NET and Python, and direct access to the engine for exploration purposes. Azure Data Explorer integrates with analytics and modeling services for additional analysis and visualization of data.
 
 ## Azure Data Explorer flow
 
